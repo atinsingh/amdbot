@@ -1,0 +1,38 @@
+{  
+    "welcomeMsg" : [
+        "Hi %s",
+        "Hello %s, Welcome to Nxt"
+     ],
+     "welcomeMsgTV" : [
+        " see that you just received your new 4kTV and the nxt HD TV box, Congraulation"
+       ],
+     "videoHelp" :[
+         "Please review our self-install instructions for the new nxt TV set"
+     ],
+    "connectionOk":[  
+      "Please check that the TV is connected to the appropriate input source on the nxt HD TV Box, together with all additional cables (in/out) and that the nxt HD TV Box is powered on and tuned to a valid channel"
+   ],
+     "homeTheaterOK1":[  
+        "If you have checked all of the above and you are still having trouble, then please also check these:"
+      ],
+      "homeTheaterOK2" :[
+          "If the TV Box video output is connected to a home theater unit, verify that the home theater unit  is powered on and set to the appropriate input source."
+          
+      ],
+      "homeTheaterOK3" :[
+          "Ensure the TV Box video output is connected to a TV through an HDMI or component cable connection."
+      ],
+      "homeTheaterOK4" :[
+          "Turn the TV power off. Turn the TV Box power off. Wait one second and then turn the power back on for both devices"
+      ],
+      "agentTranfer":[
+        " I understand. Our specialist will contact you immediately"  
+      ],
+      "nextHelp" :[
+        "Anything else that I can help?"  
+      ],
+      "goodBye":[
+        "Good Bye"
+      ]
+  
+}

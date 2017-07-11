@@ -1,0 +1,10 @@
+{
+  "appId": "24332bf1-ef29-4fc6-b084-b3a84cfdc983",
+  "appPassword": "CE0C2AsMU9BVBMpzWryfKqt",
+  "luisURL" :"https://westus.api.cognitive.microsoft.com",
+  "luisSubcriptionKey" :"6dd15f4efabe411596bfe18d6653e818",
+  "luisPath" :"/luis/v2.0/apps/6bace3f1-071d-482f-babe-0d1aaf00f4f8",
+  "sentiMentSubscriptionKey" : "4454f0721d0e40d39cb2b77654f0b54d",
+  "sentiMentURL" : "https://westus.api.cognitive.microsoft.com/text/analytics/v2.0/sentiment",
+  "pointisURL" :"http://52.58.126.193:8080/Pontis-WebDesktop/newxml"
+}
